@@ -1,0 +1,5 @@
+export { default as Navbar } from './Navbar'
+export { default as MainPage } from './MainPage'
+export { default as TopHeader } from './TopHeader'
+export { default as MoviesPage } from './MoviesPage'
+export { default as Faq } from './Faq'
