@@ -2,8 +2,8 @@
 
 import { Box } from '@mui/material'
 
-import { MoviesModule, ConcertsModule, SportsModule, TheatreModule } from './MovieModule'
-import MoviesCarousel from './MoviesCarousel'
+import { MoviesModule, ConcertsModule, SportsModule, TheatreModule } from './movieModule.jsx'
+import MoviesCarousel from './MoviesCarousel.jsx'
 
 const movies = [
   { title: 'Movie 1' },
